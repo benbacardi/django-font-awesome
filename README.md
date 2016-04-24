@@ -1,10 +1,10 @@
 django-font-awesome
 ===================
 
-![Version Badge](https://pypip.in/v/django-font-awesome/badge.png)
-![Downloads Badge](https://pypip.in/d/django-font-awesome/badge.png)
-![Wheel Status Badge](https://pypip.in/wheel/django-font-awesome/badge.png)
-![License Badge](https://pypip.in/license/django-font-awesome/badge.png)
+![Version Badge](https://img.shields.io/pypi/v/django-font-awesome.svg)
+![Downloads Badge](https://img.shields.io/pypi/dw/django-font-awesome.svg)
+![Wheel Status Badge](https://img.shields.io/pypi/wheel/django-font-awesome.svg)
+![License Badge](https://img.shields.io/pypi/l/django-font-awesome.svg)
 
 [Font Awesome](https://fortawesome.github.io/Font-Awesome/) packaged in a django app to speed up new applications and deployment.
 
