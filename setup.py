@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='django-font-awesome',
-    version='4.6.1',
+    version='4.7.0',
     url='https://github.com/benbacardi/django-font-awesome',
     description='Font Awesome packaged in a django app to speed up new applications and deployment.',
     author='Ben Cardy',
